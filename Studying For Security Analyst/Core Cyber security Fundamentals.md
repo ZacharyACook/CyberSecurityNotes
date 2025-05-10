@@ -120,15 +120,21 @@
 
 -<font color = 'crimson'><u> Risk Management</u></font>
 	<font color  = 'Gold'><u>Risk assessment:</u></font> *<font size = 2,>the process of identifying, evaluating, and prioritizing risks to an organization’s assets and operations</size>*
-	1.
-	2.
-	3.
-	4.
-	5.
-	6.
-	7.
+1.Identify Assets 
+
+2.Identify Threats
 	
-	 <font color = 'gold'><u>mitigation strategies:</u></font>a
+3.Identify Vulnerabilities
+
+4.Analyze Existing Controls
+
+5.Determine likelihood
+
+6.Determine Impact
+
+7.Calculate Risk
+	
+<font color = 'gold'><u>mitigation strategies:</u></font>
 
 
 - Security Controls
